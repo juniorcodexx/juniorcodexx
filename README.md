@@ -1,8 +1,18 @@
 <div align="center">
   ### Olá, mundo! 👋
+  <br>
   <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='400"'>
   Sou um desenvolvedor de Software morando no Rio de Janeiro.
-  [![Gmail](https://img.shields.io/twitter/url?label=email&logo=outlook&style=social&url=http%3A%2F%2Fmailto%3Apaulonobrejunior%40outlook.com)](mailto:paulonobrejunior@outlook.com)
+  <br>
+  
+  <p align="center">
+  <a href="https://www.linkedin.com/in/juniorcodex" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/juniorcodex" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  </p>
 </div>
 <!--
 **juniorcodexx/juniorcodexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
